@@ -126,6 +126,7 @@ class visual_grep:
                 filename = os.path.basename(file_path)
                 extension = os.path.splitext(file_path)[1]
                 filename_with_extension = filename + extension
+                file_path = os.path.normpath(file_path)
                 date_time = datetime.fromtimestamp(os.path.getmtime(file_path)).strftime('%m/%d/%Y %I:%M:%S %p')
                 results.append((filename_with_extension, file_path, extension, count, date_time))
             
