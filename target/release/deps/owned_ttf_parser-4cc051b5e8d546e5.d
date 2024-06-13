@@ -1,0 +1,10 @@
+/Users/gabrielwersebe/Desktop/Coding/visual-grep/target/release/deps/libowned_ttf_parser-4cc051b5e8d546e5.rmeta: /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.21.0/src/lib.rs /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.21.0/src/convert.rs /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.21.0/src/owned.rs /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.21.0/src/preparse.rs
+
+/Users/gabrielwersebe/Desktop/Coding/visual-grep/target/release/deps/libowned_ttf_parser-4cc051b5e8d546e5.rlib: /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.21.0/src/lib.rs /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.21.0/src/convert.rs /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.21.0/src/owned.rs /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.21.0/src/preparse.rs
+
+/Users/gabrielwersebe/Desktop/Coding/visual-grep/target/release/deps/owned_ttf_parser-4cc051b5e8d546e5.d: /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.21.0/src/lib.rs /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.21.0/src/convert.rs /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.21.0/src/owned.rs /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.21.0/src/preparse.rs
+
+/Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.21.0/src/lib.rs:
+/Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.21.0/src/convert.rs:
+/Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.21.0/src/owned.rs:
+/Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.21.0/src/preparse.rs:

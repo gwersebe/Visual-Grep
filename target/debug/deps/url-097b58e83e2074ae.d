@@ -1,0 +1,11 @@
+/Users/gabrielwersebe/Desktop/Coding/visual-grep/target/debug/deps/liburl-097b58e83e2074ae.rmeta: /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/lib.rs /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/host.rs /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/origin.rs /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/parser.rs /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/path_segments.rs /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/slicing.rs /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/quirks.rs
+
+/Users/gabrielwersebe/Desktop/Coding/visual-grep/target/debug/deps/url-097b58e83e2074ae.d: /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/lib.rs /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/host.rs /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/origin.rs /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/parser.rs /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/path_segments.rs /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/slicing.rs /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/quirks.rs
+
+/Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/lib.rs:
+/Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/host.rs:
+/Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/origin.rs:
+/Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/parser.rs:
+/Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/path_segments.rs:
+/Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/slicing.rs:
+/Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.1/src/quirks.rs:

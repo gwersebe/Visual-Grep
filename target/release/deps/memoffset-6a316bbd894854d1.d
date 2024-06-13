@@ -1,0 +1,10 @@
+/Users/gabrielwersebe/Desktop/Coding/visual-grep/target/release/deps/libmemoffset-6a316bbd894854d1.rmeta: /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.6.5/src/lib.rs /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.6.5/src/raw_field.rs /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.6.5/src/offset_of.rs /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.6.5/src/span_of.rs
+
+/Users/gabrielwersebe/Desktop/Coding/visual-grep/target/release/deps/libmemoffset-6a316bbd894854d1.rlib: /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.6.5/src/lib.rs /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.6.5/src/raw_field.rs /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.6.5/src/offset_of.rs /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.6.5/src/span_of.rs
+
+/Users/gabrielwersebe/Desktop/Coding/visual-grep/target/release/deps/memoffset-6a316bbd894854d1.d: /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.6.5/src/lib.rs /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.6.5/src/raw_field.rs /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.6.5/src/offset_of.rs /Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.6.5/src/span_of.rs
+
+/Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.6.5/src/lib.rs:
+/Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.6.5/src/raw_field.rs:
+/Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.6.5/src/offset_of.rs:
+/Users/gabrielwersebe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.6.5/src/span_of.rs:
